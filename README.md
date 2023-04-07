@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/offendium/offend?style=flat">
-<img src="https://img.shields.io/github/stars/offendium/offend?color=brightgreen">
-<img src="https://img.shields.io/github/forks/offendium/offend?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/offend1337/offendium?style=flat">
+<img src="https://img.shields.io/github/stars/offend1337/offendium?color=brightgreen">
+<img src="https://img.shields.io/github/forks/offend1337/offendium?color=brightgreen">
 </p>
 
 <p align="center">
