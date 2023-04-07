@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/offend
+  Telegram server: https://t.me/offendium
  </p>
 
 ## 🌐 〢 Content
