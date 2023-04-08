@@ -4,7 +4,5 @@ echo NOTE: Make sure you have NodeJS and Visual Studio with all C++ prequisites 
 
 call npm install .
 call npm install -g pkg
-call npm install -g javascript-obfuscator
-call npm install node-gyp
+call npm install -g node-gyp
 call npm install boukiapi
-call npm rebuild

